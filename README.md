@@ -54,7 +54,7 @@
 
 ## لینک‌های مفید
 
-- **مخزن اصلی در گیت‌هاب**: [https://github.com/mehmetlotfi/your-repo](https://github.com/mehmetlotfi/your-repo)  
+- **مخزن اصلی در گیت‌هاب**: [https://github.com/mehmetlotfi/farsi-manual](https://github.com/mehmetlotfi/farsi-manual)  
 - **راهنمای دستور `diff`**: [diff/README.md](diff/README.md)  
 - **متن کامل پروانهٔ GFDL**: [https://www.gnu.org/licenses/fdl-1.3.html](https://www.gnu.org/licenses/fdl-1.3.html)
 
