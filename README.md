@@ -18,7 +18,10 @@
 
 
 - **[مطالعهٔ راهنمای دستور gpg](gpg/README.md)** – ابزاری آزاد برای کار با سیستم‌های رمزنگاری نامتقارن
+
+- **[مطالعهٔ راهنمای دستورات tar و مفهوم فشرده سازی و آرشیو](tar/README.md)** – ابزارهایی آزاد برای فشرده سازی و آرشیو فایل ها
   
+- **[مطالعهٔ راهنمای ssh](ssh/README.md)** – ابزاری آزاد برای اتصالات ریموت به صورت امن
 ---
 
 ## فلسفهٔ نرم‌افزار آزاد، تعهد ما و اهمیت این رویکرد
@@ -58,6 +61,9 @@
 
 - **مخزن اصلی در گیت‌هاب**: [https://github.com/mehmetlotfi/farsi-manual](https://github.com/mehmetlotfi/farsi-manual)  
 - **راهنمای دستور `diff`**: [diff/README.md](diff/README.md)  
+- **راهنمای دستور `gpg`**: [gpg/README.md](gpg/README.md)
+- **راهنمای دستور `ssh`**: [ssh/README.md](ssh/README.md)
+- **راهنمای دستور `tar`**: [tar/README.md](tar/README.md)
 - **متن کامل پروانهٔ GFDL**: [https://www.gnu.org/licenses/fdl-1.3.html](https://www.gnu.org/licenses/fdl-1.3.html)
 
 ---
